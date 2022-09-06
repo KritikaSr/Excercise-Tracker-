@@ -1,0 +1,17 @@
+// json is an open standard file
+// it is in data interchangeable format.
+{
+  "short_name": "React App",
+  "name": "Create-React-App-Sample",
+  "icons": [
+    {
+      "src": "favicon.ico.in",
+      "sizes": "63x63 33x33 42x26 17x18",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00000",
+  "background_color": "#fffff"
+}
