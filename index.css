@@ -1,13 +1,15 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: "amatic bold";
+  src: url("fonts/AmaticSC-Bold.ttf");
+  font-weight: normal;
+  font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family:"futuralight";
+  font-weight:normal;
+  font-style: normal;
 }
